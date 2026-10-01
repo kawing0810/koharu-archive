@@ -1,0 +1,16 @@
+node_modules
+dist
+.next
+out
+.DS_Store
+*.local
+AGENTS.md
+CLAUDE.md
+src/app/_api_stash
+.tmp-*
+
+# Videos stay on local disk / Tunnel host (GitHub file size limits)
+public/media/**/*.mp4
+public/media/**/*.webm
+public/media/**/*.mov
+public/media/**/*.m4v

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "egg-birthday",
+    "name": "小晴生日限定轉蛋",
+    "tag": "轉蛋",
+    "image": "/media/e7299a99-61a6-4d66-a00c-2f0ae43ad22e/conversions/image_1QzjxFqq2aMNgnibZ9GV-main_small_image.jpg"
+  },
+  {
+    "id": "puzzle-concert",
+    "name": "NEW Chapter 拼圖",
+    "tag": "拼圖",
+    "image": "/media/2c2014f8-9916-4578-a7ea-ec740db3df2f/conversions/image_cul0mVCMXdXgFW0kqCTc-main_small_image.jpg"
+  },
+  {
+    "id": "egg-ticket",
+    "name": "演唱會籤票轉蛋",
+    "tag": "轉蛋",
+    "image": "/media/607fdf64-73e7-4d42-a0c1-8aed2ca3defb/conversions/image_I7LtLt06XasJwGxlCZmq-main_small_image.jpg"
+  },
+  {
+    "id": "puzzle-stage",
+    "name": "舞台拼圖",
+    "tag": "拼圖",
+    "image": "/media/aa773d5e-23a7-4095-b526-9fc757be6dcc/conversions/image_VQW15dOP1Kighk6VCMwf-main_small_image.jpg"
+  }
+]
